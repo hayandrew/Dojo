@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<base href="http://localhost:8888/ci/" />
+<base href="http://localhost:8888/Dojo/" />
 
 <meta charset="utf-8">
 <title>Dojo Examples</title>
